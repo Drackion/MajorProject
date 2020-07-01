@@ -1,0 +1,10 @@
+HTML Tutorial Code
+
+<html>
+<head>
+<title>Basic HTML #1</title>
+</head>
+<body>
+	<p>This is a basic HTML webpage</p>
+</body>
+</html>

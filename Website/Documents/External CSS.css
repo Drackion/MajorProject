@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+flexbox-cont {
+    display: flex;
+}
+
+header {
+    font-family: Helvetica;
+}
+
+footer {
+    color: snow;
+    font-family: Helvetica;
+    background-color: rgb(63, 86, 168);
+    height: 60px;
+}
+
+.copyright {
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+body {
+    font-family: Helvetica; 
+}
+
+h1 {
+    text-align: center;
+    color: snow;
+    padding-top: 15px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    padding-bottom: 10px;
+    font-family: Helvetica; 
+}
+
+.content {
+    color: snow;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.colorbox0 {
+    height: 70px;
+    background-color: rgb(56, 159, 255);
+}
+
+.colorbox1 {
+    width: cal(100% - 20vw);
+    margin: 0px;
+    height: 65px;
+    background-color: rgb(63, 86, 168);
+}
+
+.colorbox2 {
+    background-color:rgb(56, 159, 255);
+    width: cal(100% - 20vw);
+    margin: 0px;
+ 
+    padding-top: 20px;
+}
+
+.box {
+    background-color: whitesmoke;
+    width: auto;
+}
+
+div.btn-group {
+    height: 40px;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+div.btn-group p {
+    margin: 0
+}
+
+.btn-group .button {
+    background-color:rgb(255, 219, 58);
+    border: 1.75px solid rgb(255, 251, 0);
+    color: white;
+	width: 200px;
+	height: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-group .button:not(:last-child) {
+    border-right: none;
+}
+
+.btn-group .button:hover {
+    background-color: rgb(219, 186, 40);
+}
+
+.hr {
+    padding-top: 10px;
+}
+
+.contspace {
+    padding-top: 5px;
+}
+
+.imgcent {
+    align: center;
+}

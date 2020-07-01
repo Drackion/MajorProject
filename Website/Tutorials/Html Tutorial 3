@@ -1,0 +1,23 @@
+HTML Tutorial Code
+
+<html>
+<head>
+	<title>Basic html #3</title>
+</head>
+<body>
+	<h1>My Top 5 LTT Videos</h1>
+	<ol>
+		<li>7 Gamers 1 CPU</li>
+		<li>5 Editors 1 CPU</li>
+		<li>The $32,000 Mac Pro Killer</li>
+		<li>Building a PC... using only Wish.com</li>
+		<li>GAMING at 16K RESOLUTION?? - HOLY $H!T</li>
+	</ol>
+	<h1>3 things Linus Sebastion has dropped</h1>
+	<ul>
+		<li>Intel Zeon Platinum 8180</li>
+		<li>IPhone 11Pro</li>
+		<li>Titan X</li>
+	</ul>
+</body>
+</html>
